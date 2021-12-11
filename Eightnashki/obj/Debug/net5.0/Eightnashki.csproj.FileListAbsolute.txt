@@ -1,0 +1,15 @@
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/bin/Debug/net5.0/Eightnashki.deps.json
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/bin/Debug/net5.0/Eightnashki.runtimeconfig.json
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/bin/Debug/net5.0/Eightnashki.runtimeconfig.dev.json
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/bin/Debug/net5.0/Eightnashki.dll
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/bin/Debug/net5.0/ref/Eightnashki.dll
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/bin/Debug/net5.0/Eightnashki.pdb
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.csprojAssemblyReference.cache
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.AssemblyInfoInputs.cache
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.AssemblyInfo.cs
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.csproj.CoreCompileInputs.cache
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.dll
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/ref/Eightnashki.dll
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.pdb
+/Users/anna/RiderProjects/Eightnashki/Eightnashki/obj/Debug/net5.0/Eightnashki.genruntimeconfig.cache
